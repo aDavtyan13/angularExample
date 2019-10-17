@@ -1,3 +1,4 @@
-/* .twoDivs div{
-    display: inline;
-} */
+.twoDivs{
+    display: flex;
+    justify-content: space-between;
+}
