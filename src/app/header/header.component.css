@@ -1,0 +1,9 @@
+.header{
+    height: 63px;
+    background-color: orange;
+}
+.header button{
+    margin: 13px 39px;
+    padding: 9px 19px;
+    background-color: rgb(248, 188, 77);
+}
